@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/joaoadn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/joaoadn?si=6e8787b0432d419c" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/joaoadn/joaoadn/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/joaoadn/joaoadn/blob/output/github-contribution-grid-snake.svg)
   
   </div>
 
