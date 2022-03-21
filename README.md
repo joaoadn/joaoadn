@@ -11,6 +11,8 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/jordan-nba-chicago-bulls-michael-jordan-basketball-gif-5619474">
+</div>
 </div>
   
   ##
