@@ -1,12 +1,6 @@
 Hi, I'm João 😁
 
-
-
-
-![3145531d2df3e0db322b4cdcbbcb6338](https://user-images.githubusercontent.com/92276275/159368767-3ccd39a1-fb8b-4072-b170-956c83ec818c.jpg)
-
-
-
+![WhatsApp Image 2022-03-08 at 7 43 37 PM](https://user-images.githubusercontent.com/92276275/159369063-dbc296df-ee1c-4df6-8ac2-e11676413820.jpeg)
 
 
 - 🎓 Information Systesms student at UFLA - MG (Brazil)
