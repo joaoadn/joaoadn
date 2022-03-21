@@ -12,8 +12,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
-  <img align="right" alt="joao.pic" height="150" style="border-radius:50px;" src="https://tenor.com/xJ2Q.gif">
-</div>
   
   ##
   
