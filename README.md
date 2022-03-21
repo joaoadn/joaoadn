@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning about Information Systems at Universidade Federal de Lavras
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with coding with C++
 - 💬 Ask me about anything!
 
