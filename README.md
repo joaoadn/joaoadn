@@ -7,6 +7,7 @@
 - 💬 Ask me about anything!
 
 - 📫 How to reach me:
+
 linkedin.com/in/joaoadn/
 
 instagram.com/joao.diasn
