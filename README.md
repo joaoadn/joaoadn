@@ -8,11 +8,11 @@
 
 - 📫 How to reach me:
 
-linkedin.com/in/joaoadn/
+  linkedin.com/in/joaoadn/
 
-instagram.com/joao.diasn
+  instagram.com/joao.diasn
 
-joaoadn@outlook.com
+  joaoadn@outlook.com
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a huge fan of rom-coms
