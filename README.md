@@ -1,6 +1,6 @@
 ## Eai eu sou o João, estudante de sistemas de informação!
 
-Estou disposto a aprender novas linguagens e uso esse perfil para registrar todo o meu processo de aprendizagem no mundo da programação. 
+Estou disposto a aprender novas linguagens e uso esse perfil para registrar todo o meu processo de aprendizagem no mundo da programação. Sinta-se a vontade para me mandar uma mensagem :)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
