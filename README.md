@@ -1,4 +1,4 @@
-## Eai eu sou o João, estudante de sistemas de informação!
+## Oi, eu sou o João!
 
 Estou disposto a aprender novas linguagens e uso esse perfil para registrar todo o meu processo de aprendizagem no mundo da programação. Sinta-se a vontade para me mandar uma mensagem :)
 
