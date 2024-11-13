@@ -10,6 +10,5 @@ Driven by curiosity and a passion for coding, I'm on a journey to explore new la
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
 
   <div style="display: inline_block"><br>
-  Find me on:
-
+  
 
