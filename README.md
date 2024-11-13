@@ -12,11 +12,4 @@ Driven by curiosity and a passion for coding, I'm on a journey to explore new la
   <div style="display: inline_block"><br>
   Find me on:
 
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][1]
-[1]: https://www.instagram.com/joao.diasn
 
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][2]
-[2]: https://www.linkedin.com/in/joaoadn
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
