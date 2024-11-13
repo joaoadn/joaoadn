@@ -13,7 +13,7 @@ Driven by curiosity and a passion for coding, I'm on a journey to explore new la
 
 ##
 
-Find me on
+Reach out to me
 
    <a href="https://www.instagram.com/joao.diasn" target="_blank">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg" />
