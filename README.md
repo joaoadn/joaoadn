@@ -16,10 +16,17 @@ Driven by curiosity, I'm on a journey to explore new languages and sharpen my pr
 Reach out to me at:
 
    <a href="https://www.instagram.com/joao.diasn" target="_blank">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg"/>
+  <img alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/joaoadn" target="_blank">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/linkedin.svg"/>
+  <img alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/linkedin.svg"/>
 </a>
+
+<style>
+  a img {
+    margin-right: 10px; /* Adiciona espaço entre as imagens */
+  }
+</style>
+
 
 
