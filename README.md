@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm João!
 
-Driven by curiosity and a passion for coding, I'm on a journey to explore new languages and sharpen my programming skills. I use this space to document every step, project, and experiment along the way. Open to connecting, sharing insights, and learning from the amazing dev community!
+Driven by curiosity, I'm on a journey to explore new languages and sharpen my programming skills. I use this space to document every step, project, and experiment along the way. Open to connecting, sharing insights, and learning from the amazing dev community!
 
 💡 Ready to dive into code? Let's create something incredible!
 
