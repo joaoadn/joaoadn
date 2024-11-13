@@ -16,4 +16,4 @@ Driven by curiosity and a passion for coding, I'm on a journey to explore new la
 Find me on:
 
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/instagram.svg" />
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/linkedin.svg" />
+    [<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/linkedin.svg"(https://link-to-your-URL/)]  />
