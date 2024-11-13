@@ -22,11 +22,5 @@ Reach out to me at:
   <img alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/linkedin.svg"/>
 </a>
 
-<style>
-  a img {
-    margin-right: 10px; /* Adiciona espaço entre as imagens */
-  }
-</style>
-
 
 
