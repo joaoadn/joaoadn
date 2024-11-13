@@ -4,10 +4,14 @@ Driven by curiosity and a passion for coding, I'm on a journey to explore new la
 
 💡 Ready to dive into code? Let's create something incredible!
 
+Currently learning (and occasionally breaking things):
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+
+Still a work in progress!
 
   <div style="display: inline_block"><br>
   
