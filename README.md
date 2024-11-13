@@ -6,19 +6,19 @@ Driven by curiosity, I'm on a journey to explore new languages and sharpen my pr
 
 📚 Currently learning (and occasionally breaking things):
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+  <img align="center" alt="Joao" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg">
+  <img align="center" alt="Joao" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+  <img align="center" alt="Joao" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
   <div style="display: inline_block"><br>
 
 ##
 
 Reach out to me at:
 
-   <a href="https://www.instagram.com/joao.diasn" target="blank">
+   <a href="https://www.instagram.com/joao.diasn" target="_blank">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg" />
   </a>
-    <a href="https://www.linkedin.com/in/joaoadn" target="blank">
+    <a href="https://www.linkedin.com/in/joaoadn" target_="blank">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/linkedin.svg" />
 </a>
 
