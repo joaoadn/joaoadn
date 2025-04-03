@@ -20,10 +20,7 @@ Driven by curiosity, I'm on a journey to explore new languages and sharpen my pr
 ##
 
 Reach out to me at:
-<div style="display: inline_block"><br>
-  <a href="https://www.instagram.com/joao.diasn" target="_blank">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg"/>
-  </a>
+</a>
   [LinkedIn](https://www.linkedin.com/in/joaoadn/)
 </a>
 
