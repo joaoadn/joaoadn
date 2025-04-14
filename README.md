@@ -1,61 +1,30 @@
-<h2 align="center">hey! i'm joão 👋</h2>
+# 👋 Hi, I'm João!
 
-<p align="center">
-  🎓 information systems @ ufla | 🤖 ai & data | ⚽ football + tech  
-</p>
+🎓 Final-year Information Systems student at the Federal University of Lavras (UFLA), Brazil<br/>
+🤖 Exploring AI, machine learning, and data-driven solutions<br/>
+📚 #learninginpublic by building real-world projects and doing research<br/>
+⚽ Writing my thesis on **AI-powered detection of match-fixing in football**<br/>
+💡 Passionate about tech that solves real problems<br/>
 
----
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=joaoadn&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-### 🙋‍♂️ about me
+# 💻 Tech Stack
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br/>
 
-- 🎓 final-year information systems student at the federal university of lavras (ufla), brazil  
-- ⚽ writing my thesis: **"the hidden game: ai-powered detection of match-fixing in football"**  
-- 💻 passionate about ai, machine learning, and data-driven problem solving  
-- 🧪 learning in public by building real-world projects and experimenting with ideas  
+# 🌱 Currently Learning
 
----
+📊 Data analytics and data visualization<br/>
+🎨 Front-end development & UI/UX design<br/>
+🧠 More about AI, ML and optimization<br/>
 
-### 🔧 tools i use
+# 📫 Reach Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joaoadn/)
 
-<div style="display: inline_block">
-  <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
-
----
-
-### 🌱 currently learning
-
-- 🤖 artificial intelligence & machine learning  
-- 📊 data analytics & visualization  
-- 🎨 front-end & ui/ux design  
-
----
-
-### 📊 github stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoadn&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoadn&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-### 📫 reach me here
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/joaoadn/" target="_blank">
-    <img src="https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
-
----
-
-### ✨ fun fact
-
-i’m combining two of my favorite things — football and tech — into research, and loving every second of it ⚽💡  
 
 
 
