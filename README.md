@@ -1,6 +1,9 @@
 ## 👋 Hi, I'm João!
 
-Driven by curiosity, I'm on a journey to explore new languages and sharpen my programming skills. I use this space to document every step, project, and experiment along the way. Open to connecting, sharing insights, and learning from the amazing dev community!
+🎓 Studying Information Systems at the Federal University of Lavras (UFLA), Brazil
+📊 Exploring AI, machine learning, and data-driven solutions
+📚 #learninginpublic through real-world projects and research
+⚽ Currently working on a thesis about using AI to detect match-fixing in football
 
 💡 Ready to dive into code? Let's create something incredible!
 
