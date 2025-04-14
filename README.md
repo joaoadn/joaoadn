@@ -1,42 +1,57 @@
-<h1 align="center">Hey there, I'm João 👋</h1>
+<h2 align="center">Hi there 👋, I'm João!</h2>
 
 <p align="center">
-  🎓 Information Systems @ UFLA &nbsp;|&nbsp; 💡 AI & Data Enthusiast &nbsp;|&nbsp; ⚽ Football & Tech  
+  🎓 Information Systems @ UFLA | 🧠 AI & Data | ⚽ Football + Tech
 </p>
 
 ---
 
-🧠 I'm a final-year Information Systems student at the Federal University of Lavras (UFLA), Brazil.  
-Currently working on my thesis: **"The Hidden Game: AI-Powered Detection of Match-Fixing in Football"** — where machine learning meets the pitch.
+### 🧑‍💻 About Me
 
-🚀 I'm passionate about using technology to solve real-world problems. Whether it's turning data into insights or building clean and creative interfaces, I’m all in.
+- 🎓 Final-year Information Systems student at the Federal University of Lavras (UFLA), Brazil  
+- ⚽ Writing my thesis: **"The Hidden Game: AI-Powered Detection of Match-Fixing in Football"**  
+- 📊 Passionate about AI, machine learning, and data-driven solutions  
+- 🧪 Always learning in public — building, experimenting, and sharing
 
-🛠️ Tools & Tech I’ve been playing with lately:
+---
+
+### 🛠 Tech Stack
+
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 </div>
 
-<br>
+---
 
-📚 Always learning, always building — sometimes breaking things (on purpose).  
-Currently diving deeper into:
-- 🧠 AI & Machine Learning  
+### 🌱 Currently Learning
+
+- 🤖 AI & Machine Learning  
 - 📈 Data Analytics & Visualization  
-- 🎨 Front-end development
+- 🎨 Front-end development & UI design  
 
 ---
 
-📫 Let’s connect!  
-<a href="https://www.linkedin.com/in/joaoadn/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" />
-</a>
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaoadn&show_icons=true&theme=tokyonight" alt="João's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoadn&layout=compact&theme=tokyonight" alt="João's Top Languages" height="180"/>
+</div>
 
 ---
 
-🧩 Fun Fact: I’ve combined two of my passions — football and tech — into my current research. Let’s chat if that sounds like your vibe too!
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/joaoadn/)
+
+---
+
+### ✨ Fun Fact
+
+I'm turning my passion for football and tech into research — and loving every part of it ⚽💻
 
 
 
