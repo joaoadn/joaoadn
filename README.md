@@ -3,7 +3,6 @@
 🎓 Final-year Information Systems student at the Federal University of Lavras (UFLA), Brazil<br/>
 🤖 Exploring AI, machine learning, and data-driven solutions<br/>
 📚 #learninginpublic by building real-world projects and doing research<br/>
-⚽ Writing my thesis on **AI-powered detection of match-fixing in football**<br/>
 💡 Passionate about tech that solves real problems<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
