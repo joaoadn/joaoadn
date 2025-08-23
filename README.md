@@ -18,7 +18,6 @@
 # 🌱 Currently Learning
 
 📊 Data analytics and data visualization<br/>
-🎨 Front-end development & UI/UX design<br/>
 🧠 More about AI, ML and optimization<br/>
 
 # 📫 Reach Me
