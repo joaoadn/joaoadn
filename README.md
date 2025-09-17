@@ -6,7 +6,7 @@
 💡 Passionate about tech that solves real problems<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=joaoadn&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![][![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoadn)<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
