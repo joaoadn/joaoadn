@@ -5,8 +5,6 @@
 📚 #learninginpublic by building real-world projects and doing research<br/>
 💡 Passionate about tech that solves real problems<br/>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![João's GitHub stats]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoadn)](https://github.com/joaoadn/github-readme-stats))<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
