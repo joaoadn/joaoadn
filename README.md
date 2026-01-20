@@ -1,6 +1,6 @@
 # 👋 Hi, I'm João!
 
-🎓 Final-year Information Systems student at the Federal University of Lavras (UFLA), Brazil<br/>
+🎓 Final-year Information Systems bacharel at the Federal University of Lavras (UFLA), Brazil<br/>
 🤖 Exploring AI, machine learning, and data-driven solutions<br/>
 📚 #learninginpublic by building real-world projects and doing research<br/>
 💡 Passionate about tech that solves real problems<br/>
