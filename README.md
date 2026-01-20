@@ -1,6 +1,7 @@
 # 👋 Hi, I'm João!
 
-🎓 Information Systems bacharel at the Federal University of Lavras (UFLA), Brazil<br/>
+🎓 Bacharel in Information Systems at the Federal University of Lavras (UFLA), Brazil<br/>
+💻 Software Developer at SYDLE
 🤖 Exploring AI, machine learning, and data-driven solutions<br/>
 📚 #learninginpublic by building real-world projects and doing research<br/>
 💡 Passionate about tech that solves real problems<br/>
