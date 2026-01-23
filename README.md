@@ -1,6 +1,6 @@
 # 👋 Hi, I'm João!
 
-🎓 Bachelor's Degree in Information Systems - UFLA
+🎓 Bachelor's Degree in Information Systems - UFLA<br/>
 💻 Software Developer at SYDLE<br/>
 🤖 Exploring AI, machine learning, and data-driven solutions<br/>
 📚 #learninginpublic by building real-world projects and doing research<br/>
