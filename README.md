@@ -1,10 +1,13 @@
-# 👋 Hi, I'm João!
+👋 Hi, I'm João!
+Frontend Developer @ SYDLE | Information Systems (UFLA)
 
-🎓 Bachelor's Degree in Information Systems - UFLA<br/>
-💻 Software Developer at SYDLE<br/>
-🤖 Exploring AI, machine learning, and data-driven solutions<br/>
-📚 #learninginpublic by building real-world projects and doing research<br/>
-💡 Passionate about tech that solves real problems<br/>
+💻 Current Focus: Building scalable and high-performance experiences for the Workspace product at SYDLE, utilizing a modern stack of Web Components and NoSQL databases.
+
+🛠 Tech Stack: Working with JavaScript and Stencil.js, integrating frontend layers with Elasticsearch and MongoDB for data-intensive applications.
+
+🤖 AI Enthusiast: Deep diving into Machine Learning and data-driven solutions to bridge the gap between complex data and intuitive interfaces.
+
+📚 Learning in Public: I believe in growth through transparency—sharing my research and real-world project builds.
 
 
 # 💻 Tech Stack
