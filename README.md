@@ -1,5 +1,5 @@
 👋 Hi, I'm João!
-Frontend Developer @ SYDLE | Information Systems (UFLA)
+Frontend Developer at SYDLE | Information Systems (UFLA)
 
 💻 Current Focus: Building scalable and high-performance experiences for the Workspace product at SYDLE, utilizing a modern stack of Web Components and NoSQL databases.
 
