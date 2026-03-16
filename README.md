@@ -1,7 +1,7 @@
 👋 Hi, I'm João!
 Frontend Developer at SYDLE | Information Systems (UFLA)
 
-💻 Current Focus: Building scalable and high-performance experiences for the Workspace product at SYDLE, utilizing a modern stack of Web Components and NoSQL databases.
+💻 Current Focus: Building scalable and high-performance experiences for the Workspace product at SYDLE, utilizing a modern stack of Web Components.
 
 🛠 Tech Stack: Working with JavaScript and Stencil.js, integrating frontend layers with Elasticsearch and MongoDB for data-intensive applications.
 
