@@ -3,7 +3,7 @@ Frontend Developer at SYDLE | Information Systems graduated (UFLA)
 
 💻 Current Focus: Building scalable and high-performance experiences for the Workspace product at SYDLE, utilizing a modern stack of Web Components.
 
-🛠 Tech Stack: Working with JavaScript and Stencil.js, integrating frontend layers with Elasticsearch and MongoDB for data-intensive applications.
+🛠 Tech Stack: Working with JavaScript, Typescript, HTML, CSS and Stencil.js, integrating frontend layers with Elasticsearch and MongoDB for data-intensive applications.
 
 🤖 AI Enthusiast: Deep diving into Machine Learning and data-driven solutions to bridge the gap between complex data and intuitive interfaces.
 
