@@ -25,8 +25,7 @@ Frontend Developer at SYDLE | Information Systems graduated (UFLA)
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
 <br/>
-quebra 
-teste
+
 
 # 📫 Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joaoadn/)
